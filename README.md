@@ -1,4 +1,4 @@
-## Multimodal Document Processing Tool
+# Multimodal Document Processing Tool
 # Overview
 This project is a Multimodal Document Processing Tool developed as part of a Master's in Artificial Intelligence summer study. Inspired by research on multimodal document analytics for banking process automation, this tool processes small business loan applications by integrating text, images, and structured data. It extracts key information, detects potential fraud, and assesses loan eligibility using machine learning and computer vision techniques.
 Features
