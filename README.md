@@ -90,4 +90,23 @@ multimodal-document-processing/
 ├── requirements.txt        # Python dependencies
 └── README.md              # This file
 
-Example
+# Contributing
+
+Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
+
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Acknowledgments
+
+
+Inspired by research on multimodal document analytics for banking automation.
+
+
+
+Thanks to Dr. Ping Gi for guidance during the work.
+
+
+
+Built with open-source libraries like Tesseract, spaCy, and OpenCV.
